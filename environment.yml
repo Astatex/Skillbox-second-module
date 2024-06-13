@@ -1,0 +1,9 @@
+name: exampleSkill
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - requests=2.31.0
+  - selenium
+  - python-chromedriver-binary=124.0.6358.0.0
+  - pytest
